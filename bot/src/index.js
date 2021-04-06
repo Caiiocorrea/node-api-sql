@@ -1,7 +1,7 @@
 const Telegraf = require('telegraf')
 const fetch = require('node-fetch');
 const axios = require('axios')
-const bot = new Telegraf('1658442429:AAGek0ISWCi728cAJI4kuVQh0oDLV5wF5jE')
+const bot = new Telegraf('<token>')
 
 
 const moment = require('moment'); // require
@@ -206,7 +206,7 @@ const salvaBanco = async () => {
                  "lancheStatus": `${lancheStatus}`
                };
             
-            const response = await fetch('http://192.168.0.11:8080/api/v1/pedido', {
+            const response = await fetch('http://localhost:8080/api/v1/pedido', {
                  method: 'post',
                  body: JSON.stringify(body),
                  headers: {'Content-Type': 'application/json'}
@@ -228,7 +228,7 @@ bot.hears(['/Status', 'Status', '/status', 'status' ], async (ctx) => {
     
     try {
  
-        const response = await axios.get(`http://192.168.0.11:8080/api/v1/pedido/${passwd}`, { setTimeout: 3000 })
+        const response = await axios.get(`http://localhost:8080/api/v1/pedido/${passwd}`, { setTimeout: 3000 })
         var dados = response.data
         console.log(dados)
 
