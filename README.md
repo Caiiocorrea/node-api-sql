@@ -15,10 +15,6 @@ Recursos disponíveis para acesso via API:
 
 ![image](https://user-images.githubusercontent.com/49397996/113792678-deeec300-971c-11eb-99ea-0232acaf8440.png)
 
-- Dados através da API utilizando o Postman
-
-![image](https://user-images.githubusercontent.com/49397996/113792795-22e1c800-971d-11eb-9298-629983852ef2.png)
-
 - API em funcionamento através do navegador na porta 8080
 
 ![image](https://user-images.githubusercontent.com/49397996/113792931-7a803380-971d-11eb-8473-02a7b3b08e89.png)
