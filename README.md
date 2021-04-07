@@ -25,7 +25,7 @@ Recursos disponíveis para acesso via API:
 
 Métodos
 
-<p>Requisições para a API devem seguir os padrões:</p>
+# Requisições para a API devem seguir os padrões:
 
 <table>
 <thead>
@@ -55,17 +55,26 @@ Métodos
 </table>
 
 
-Respostas
+# Respostas
 
-Código	Descrição
-200	Requisição executada com sucesso (success).
-400	Erros de validação ou os campos informados não existem no sistema.
-401	Dados de acesso inválidos.
-404	Registro pesquisado não encontrado (Not found).
-405	Método não implementado.
-410	Registro pesquisado foi apagado do sistema e não esta mais disponível.
-422	Dados informados estão fora do escopo definido para o campo.
-429	Número máximo de requisições atingido. (aguarde alguns segundos e tente novamente)
+<table>
+<thead>
+<tr>
+<th>Código</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>200</code></td>
+<td>Requisição executada com sucesso (success).</td>
+</tr>
+<tr>
+<td><code>400</code></td>
+<td>Erros de validação ou os campos informados não existem no sistema.</td>
+</tr>
+</tbody>
+</table>
 
 
 🚀 Como executar o projeto
