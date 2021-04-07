@@ -19,7 +19,7 @@ Recursos disponíveis para acesso via API:
 
 ![image](https://user-images.githubusercontent.com/49397996/113792931-7a803380-971d-11eb-8473-02a7b3b08e89.png)
 
-Métodos
+# Métodos
 
 # Requisições para a API devem seguir os padrões:
 
