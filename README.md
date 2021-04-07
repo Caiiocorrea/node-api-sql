@@ -1,6 +1,6 @@
-🚧 NodeJS e API 🚀
+🚧 API e Bot 🚀 Melhorando cada dia 🚧
 
-Um aplicativo simples que se conecta a apiSQL com registros através de uma atendente virtual desenvolvida no telegram, foi utilizado uma lanchonete como cenário.
+API com interação através de uma atendente virtual desenvolvida no telegram, foi utilizado uma lanchonete como cenário.
 
 💻 Sobre o projeto
 ♻️ NodeJS e API
@@ -9,12 +9,11 @@ Um aplicativo simples que se conecta a apiSQL com registros através de uma aten
 
 ![image](https://user-images.githubusercontent.com/49397996/113792678-deeec300-971c-11eb-99ea-0232acaf8440.png)
 
-
 - Dados através da API utilizando o Postman
 
 ![image](https://user-images.githubusercontent.com/49397996/113792795-22e1c800-971d-11eb-9298-629983852ef2.png)
 
-- API em funcionamento internamente através da porta 8080
+- API em funcionamento através do navegador na porta 8080
 
 ![image](https://user-images.githubusercontent.com/49397996/113792931-7a803380-971d-11eb-8473-02a7b3b08e89.png)
 
