@@ -25,13 +25,34 @@ Recursos disponíveis para acesso via API:
 
 Métodos
 
-Requisições para a API devem seguir os padrões:
+<p>Requisições para a API devem seguir os padrões:</p>
 
-Método	Descrição
-GET	Retorna informações de um ou mais registros.
-POST	Utilizado para criar um novo registro.
-PUT	Atualiza dados de um registro ou altera sua situação.
-DELETE	Remove um registro do sistema.
+<table>
+<thead>
+<tr>
+<th>Método</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>GET</code></td>
+<td>Retorna informações de um ou mais registros.</td>
+</tr>
+<tr>
+<td><code>POST</code></td>
+<td>Utilizado para criar um novo registro.</td>
+</tr>
+<tr>
+<td><code>PUT</code></td>
+<td>Atualiza dados de um registro ou altera sua situação.</td>
+</tr>
+<tr>
+<td><code>DELETE</code></td>
+<td>Remove um registro do sistema.</td>
+</tr>
+</tbody>
+</table>
 
 
 Respostas
