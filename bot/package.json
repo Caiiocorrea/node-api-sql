@@ -7,7 +7,7 @@
     "start": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Caio Santos Corrêa",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
