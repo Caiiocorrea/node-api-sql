@@ -40,7 +40,7 @@ $ npm install | yarn install
 # Execute a aplicação em modo de desenvolvimento
 $ npm start | yarn start
 
-# A aplicação será aberta na porta:8080 - acesse http://localhost:8080
+# A aplicação será aberta na porta:8080 - acesse http://localhost:8080/api/v1/pedidos
 
 
 Feito com ❤️ por Caio S. Corrêa 👋🏽 Entre em contato!
