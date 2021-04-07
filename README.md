@@ -30,7 +30,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 🧭 Rodando a API (Back end)
 # Clone este repositório
-$ git clone https://https://github.com/Caiiocorrea/node-api-sql-telegram-bot
+$ git clone https://github.com/Caiiocorrea/node-api-sql
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd backend
