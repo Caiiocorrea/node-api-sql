@@ -1,6 +1,12 @@
 🚧 Node.js API 🚀 Melhorando cada dia 🚧
 
-API com interação através de uma atendente virtual desenvolvida no telegram, foi utilizado uma lanchonete como cenário.
+Recursos disponíveis para acesso via API:
+
+- <a href="#pedidos-pedidos">Todos os Pedidos</a>
+- <a href="#get-pedido">Pedido</a>
+- <a href="#add-pedido/">Adicionar</a>
+- <a href="#update-pedido">Atualizar</a>
+- <a href="#delete-pedido/">Excluir</a>
 
 💻 Sobre o projeto
 ♻️ NodeJS e API
