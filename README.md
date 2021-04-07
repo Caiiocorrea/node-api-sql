@@ -41,8 +41,6 @@ $ npm start | yarn start
 
 # A aplicação será aberta na porta:8080 - acesse http://localhost:8080
 
-📝 Licença
-Este projeto esta sobe a licença MIT.
 
 Feito com ❤️ por Caio S. Corrêa 👋🏽 Entre em contato!
 
