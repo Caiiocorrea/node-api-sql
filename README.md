@@ -1,5 +1,5 @@
-🚧 NodeJS e API 🚀 em construção... 🚧
-GitHub language count Repository size Siga no Twitter
+🚧 NodeJS e API 🚀
+Um aplicativo simples que se conecta a apiSQL com registros através de uma atendente virtual desenvolvida no telegram, foi utilizado uma lanchonete como cenário.
 
 💻 Sobre o projeto
 ♻️ NodeJS e API
