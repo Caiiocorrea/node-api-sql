@@ -1,4 +1,5 @@
 🚧 NodeJS e API 🚀
+
 Um aplicativo simples que se conecta a apiSQL com registros através de uma atendente virtual desenvolvida no telegram, foi utilizado uma lanchonete como cenário.
 
 💻 Sobre o projeto
@@ -40,4 +41,8 @@ $ npm start | yarn start
 
 # A aplicação será aberta na porta:8080 - acesse http://localhost:8080
 
+📝 Licença
+Este projeto esta sobe a licença MIT.
+
 Feito com ❤️ por Caio S. Corrêa 👋🏽 Entre em contato!
+Fonte - <a href="https://rocketseat.com.br/">Rocketseat - Starter</a>
