@@ -1,4 +1,4 @@
-🚧 API e Bot 🚀 Melhorando cada dia 🚧
+🚧 Node.js API 🚀 Melhorando cada dia 🚧
 
 API com interação através de uma atendente virtual desenvolvida no telegram, foi utilizado uma lanchonete como cenário.
 
